@@ -29,7 +29,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 # DISCLAIMER
                                        TO BE USED FOR Education Purpose
 
-The use of this DDoS Script is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program. 
+The use of this Osintgram tool is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program. 
 
 
 ## Connect with me! 🌐
