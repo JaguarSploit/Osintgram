@@ -1,27 +1,29 @@
 # WiFi DoS
  - Easy setup and UI
- - Start attack within a minute
+ - Start gathering information within a minute
  
 
-# About this Script
-<p>This script is a simple version of the DDos attack</p>
+# About this
+<p>Official Osintgram Tool</p>
 
 
 # How to run the project? :thinking:
- - Clone github repository in your local system  `git clone https://github.com/JaguarSploit/DDos-Script.git`
- - Move in WiFi-DoS repository  `cd DDos-Script`
- - py Script.py
+ - Clone github repository in your local system  `git clone https://github.com/JaguarSploit/Osintgram.git`
+ - Move in Osintgram repository  `cd Osintgram`
+ - py main.py
 
 
 # Bug / Feature Request :man_technologist:
-If you find a bug (the script couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/JaguarSploit/DDos-Script/issues/new) by including your search query and the expected result.
+If you find a bug (the script couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/JaguarSploit/Osintgram/issues/new) by including your search query and the expected result.
 
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/JaguarSploit/DDos-Script/issues/new). Please include sample queries and their corresponding results.
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/JaguarSploit/Osintgram/issues/new). Please include sample queries and their corresponding results.
 
 
 # Credits
-* [@MohammedFaiz06](https://github.com/MohammedFaiz06)
+* [@Datalux](https://github.com/Datalux)
    Developer of this script
+* [@MohammedFaiz06](https://github.com/MohammedFaiz06)
+   Uploaded by MohammedFaiz06
 
 
 # DISCLAIMER
