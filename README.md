@@ -21,7 +21,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 # Credits
 * [@Datalux](https://github.com/Datalux)
-   Developer of this script
+   Developer of this tool
 * [@MohammedFaiz06](https://github.com/MohammedFaiz06)
    Uploaded by MohammedFaiz06
 
