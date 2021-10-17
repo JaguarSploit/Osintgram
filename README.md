@@ -36,10 +36,3 @@ The use of this DDoS Script is COMPLETE RESPONSIBILITY of the END-USER. Develope
 
 [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](https://www.linkedin.com/in/mohammed-ahmed-faiz-b15b771a2/)       [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">](https://github.com/MohammedFaiz06)     [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" title="Instagram">](https://instagram.com/mohammed_ahmedfaiz7) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/twitter.png" title="LinkedIn">](https://twitter.com/MohammedFaiz06)
 
-<a href="https://github.com/Datalux/Osintgram/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Datalux/Osintgram" />
-</a>
-
-## External library 🔗
-
-[Instagram API](https://github.com/ping/instagram_private_api)
